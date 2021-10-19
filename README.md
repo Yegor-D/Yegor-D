@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yegor, also called Yegr, Ye-Door and other things.
+- 👋 Hi, I’m Yegor.
 - 👀 I’m interested in programming, reading and making friends.
 - 🌱 I’m currently learning how to code in Python 3.
 - 💞️ I’m looking to collaborate on projects. (Which projects? You'll never know unless you ask me!)
